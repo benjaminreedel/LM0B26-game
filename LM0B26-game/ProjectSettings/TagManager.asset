@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG
+    uniqueID: 3227518065
+    locked: 0
+  - name: Floor
+    uniqueID: 3973882089
+    locked: 0
+  - name: Enemies
+    uniqueID: 1872981215
+    locked: 0
+  - name: Players
+    uniqueID: 3394659307
+    locked: 0
+  - name: Objects
+    uniqueID: 1441865707
+    locked: 0

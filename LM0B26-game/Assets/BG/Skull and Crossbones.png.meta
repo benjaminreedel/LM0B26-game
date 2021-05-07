@@ -1,0 +1,1644 @@
+fileFormatVersion: 2
+guid: 3f79308969a395145bbefd289c09f83a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8948118053908031540
+    second: Skull and Crossbones_0
+  - first:
+      213: 5621739153179499551
+    second: Skull and Crossbones_1
+  - first:
+      213: -6720845001668229785
+    second: Skull and Crossbones_2
+  - first:
+      213: 5780154582758557828
+    second: Skull and Crossbones_3
+  - first:
+      213: -1872009231645428950
+    second: Skull and Crossbones_4
+  - first:
+      213: -1663799076453914564
+    second: Skull and Crossbones_5
+  - first:
+      213: 7570006801464626333
+    second: Skull and Crossbones_6
+  - first:
+      213: 4222901600150124929
+    second: Skull and Crossbones_7
+  - first:
+      213: 8614854597119204057
+    second: Skull and Crossbones_8
+  - first:
+      213: 6871659721827734980
+    second: Skull and Crossbones_9
+  - first:
+      213: -196926476537566976
+    second: Skull and Crossbones_10
+  - first:
+      213: -1232105442762813584
+    second: Skull and Crossbones_11
+  - first:
+      213: 7445392184239061419
+    second: Skull and Crossbones_12
+  - first:
+      213: -8234878743211634724
+    second: Skull and Crossbones_13
+  - first:
+      213: 164511858346648828
+    second: Skull and Crossbones_14
+  - first:
+      213: 6390854294878710865
+    second: Skull and Crossbones_15
+  - first:
+      213: -3284802025132588171
+    second: Skull and Crossbones_16
+  - first:
+      213: 986294199185476361
+    second: Skull and Crossbones_17
+  - first:
+      213: -2761189325219148994
+    second: Skull and Crossbones_18
+  - first:
+      213: 6286194942829162901
+    second: Skull and Crossbones_19
+  - first:
+      213: -5445951220878754762
+    second: Skull and Crossbones_20
+  - first:
+      213: -4187782816376523510
+    second: Skull and Crossbones_21
+  - first:
+      213: 5876304656669313328
+    second: Skull and Crossbones_22
+  - first:
+      213: 7670119330370459898
+    second: Skull and Crossbones_23
+  - first:
+      213: -1620321169140609711
+    second: Skull and Crossbones_24
+  - first:
+      213: 18921557271457971
+    second: Skull and Crossbones_25
+  - first:
+      213: -4476102200425179901
+    second: Skull and Crossbones_26
+  - first:
+      213: 5456225034390774911
+    second: Skull and Crossbones_27
+  - first:
+      213: -2152188244958402111
+    second: Skull and Crossbones_28
+  - first:
+      213: 2589388223159413293
+    second: Skull and Crossbones_29
+  - first:
+      213: -7072342318555272877
+    second: Skull and Crossbones_30
+  - first:
+      213: -5971796660639047948
+    second: Skull and Crossbones_31
+  - first:
+      213: -2861543066678942264
+    second: Skull and Crossbones_32
+  - first:
+      213: 8394067541839863113
+    second: Skull and Crossbones_33
+  - first:
+      213: -4769685324623040821
+    second: Skull and Crossbones_34
+  - first:
+      213: -7294908736983679025
+    second: Skull and Crossbones_35
+  - first:
+      213: 3140202840135965745
+    second: Skull and Crossbones_36
+  - first:
+      213: 2992662091106520204
+    second: Skull and Crossbones_37
+  - first:
+      213: 72730145361964045
+    second: Skull and Crossbones_38
+  - first:
+      213: -376704377972012882
+    second: Skull and Crossbones_39
+  - first:
+      213: 6058904419332993216
+    second: Skull and Crossbones_40
+  - first:
+      213: 7838761060366246351
+    second: Skull and Crossbones_41
+  - first:
+      213: 4871565358326396935
+    second: Skull and Crossbones_42
+  - first:
+      213: -1395838802465991711
+    second: Skull and Crossbones_43
+  - first:
+      213: -7558267634732292285
+    second: Skull and Crossbones_44
+  - first:
+      213: 910180923894708432
+    second: Skull and Crossbones_45
+  - first:
+      213: -4835893715853710974
+    second: Skull and Crossbones_46
+  - first:
+      213: 5706142172101317614
+    second: Skull and Crossbones_47
+  - first:
+      213: -4770699804683556520
+    second: Skull and Crossbones_48
+  - first:
+      213: 7269074903046580911
+    second: Skull and Crossbones_49
+  - first:
+      213: 1112622428850575558
+    second: Skull and Crossbones_50
+  - first:
+      213: -1186619233737567494
+    second: Skull and Crossbones_51
+  - first:
+      213: -2961710220869188908
+    second: Skull and Crossbones_52
+  - first:
+      213: 4523778018971888531
+    second: Skull and Crossbones_53
+  - first:
+      213: 4830487386016181278
+    second: Skull and Crossbones_54
+  - first:
+      213: 252122593622487124
+    second: Skull and Crossbones_55
+  - first:
+      213: -5084187566346245770
+    second: Skull and Crossbones_56
+  - first:
+      213: 3101091059945130041
+    second: Skull and Crossbones_57
+  - first:
+      213: 4744259985557884269
+    second: Skull and Crossbones_58
+  - first:
+      213: 5067418041589860626
+    second: Skull and Crossbones_59
+  - first:
+      213: 3792568035103194274
+    second: Skull and Crossbones_60
+  - first:
+      213: -4681271380607672352
+    second: Skull and Crossbones_61
+  - first:
+      213: -8954215019766166235
+    second: Skull and Crossbones_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skull and Crossbones_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 336
+        width: 879
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438a27bf5f91e2c70800000000000000
+      internalID: 8948118053908031540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_1
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 437
+        width: 76
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c5b2d79fd640e40800000000000000
+      internalID: 5621739153179499551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_2
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 361
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7650b1d5413cab2a0800000000000000
+      internalID: -6720845001668229785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_3
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 360
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4888b2ce7fb373050800000000000000
+      internalID: 5780154582758557828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_4
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 360
+        width: 70
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23b58ba5894506e0800000000000000
+      internalID: -1872009231645428950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_5
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 368
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38675e1e8ff8e8e0800000000000000
+      internalID: -1663799076453914564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_6
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 355
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c079c04111e0960800000000000000
+      internalID: 7570006801464626333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 79
+        width: 1726
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1897066a1a2ca9a30800000000000000
+      internalID: 4222901600150124929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_8
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 38
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da5ee4dc9c1e8770800000000000000
+      internalID: 8614854597119204057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_9
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 38
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5d6e00c1a0d5f50800000000000000
+      internalID: 6871659721827734980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_10
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 38
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009eb17b960644df0800000000000000
+      internalID: -196926476537566976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_11
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 38
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f0c46b0aea6eee0800000000000000
+      internalID: -1232105442762813584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_12
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 38
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9f9038eb8535760800000000000000
+      internalID: 7445392184239061419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_13
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 38
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf847ec965d7bd80800000000000000
+      internalID: -8234878743211634724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_14
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4671ed9a6784200800000000000000
+      internalID: 164511858346648828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_15
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 38
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c6689fe10e0b850800000000000000
+      internalID: 6390854294878710865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_16
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 38
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5730d7636f90a62d0800000000000000
+      internalID: -3284802025132588171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_17
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b8a7a395500bd00800000000000000
+      internalID: 986294199185476361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_18
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b46b820f84ea9d0800000000000000
+      internalID: -2761189325219148994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_19
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 38
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591703caefc0d3750800000000000000
+      internalID: 6286194942829162901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_20
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 38
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cba6fe7381c64b0800000000000000
+      internalID: -5445951220878754762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_21
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 38
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05746167b102e5c0800000000000000
+      internalID: -4187782816376523510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_22
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 38
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0398fb483f3dc8150800000000000000
+      internalID: 5876304656669313328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_23
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 38
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8969794ecb17a60800000000000000
+      internalID: 7670119330370459898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_24
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 38
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d04534b767389e0800000000000000
+      internalID: -1620321169140609711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_25
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b033cb5e09334000800000000000000
+      internalID: 18921557271457971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_26
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 22
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305105d93c0b1e1c0800000000000000
+      internalID: -4476102200425179901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_27
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74a47da2c768bb40800000000000000
+      internalID: 5456225034390774911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_28
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9ab79a134e122e0800000000000000
+      internalID: -2152188244958402111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_29
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 38
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a2ffaaeda5fe320800000000000000
+      internalID: 2589388223159413293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_30
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 38
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359ec84d12ef9dd90800000000000000
+      internalID: -7072342318555272877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_31
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 38
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fedebbb39aef1da0800000000000000
+      internalID: -5971796660639047948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_32
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5ae11fdb1c948d0800000000000000
+      internalID: -2861543066678942264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_33
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d5004a4f7bd7470800000000000000
+      internalID: 8394067541839863113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_34
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce2377d77caecdb0800000000000000
+      internalID: -4769685324623040821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_35
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 38
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfb13f572743ca90800000000000000
+      internalID: -7294908736983679025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_36
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c1af878dd349b20800000000000000
+      internalID: 3140202840135965745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_37
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c8e29e052188920800000000000000
+      internalID: 2992662091106520204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_38
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c23ce8ea3620100800000000000000
+      internalID: 72730145361964045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_39
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8c4a53d5da5caf0800000000000000
+      internalID: -376704377972012882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_40
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 22
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0336ac77d851450800000000000000
+      internalID: 6058904419332993216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_41
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 22
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc16b4227afd8cc60800000000000000
+      internalID: 7838761060366246351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_42
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 22
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708b42bf1e64b9340800000000000000
+      internalID: 4871565358326396935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_43
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 22
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3de4f210cf0ace0800000000000000
+      internalID: -1395838802465991711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_44
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 18
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3472372b1a3ab1790800000000000000
+      internalID: -7558267634732292285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_45
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 22
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8b41a5abc91ac00800000000000000
+      internalID: 910180923894708432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_46
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 22
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289eefe794473ecb0800000000000000
+      internalID: -4835893715853710974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_47
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 22
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee399f5b21a403f40800000000000000
+      internalID: 5706142172101317614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_48
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 22
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859afcbcdc11bcdb0800000000000000
+      internalID: -4770699804683556520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_49
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 22
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa6cc17c11f0e460800000000000000
+      internalID: 7269074903046580911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_50
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 22
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c855c04434d07f00800000000000000
+      internalID: 1112622428850575558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_51
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 18
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af21d690818488fe0800000000000000
+      internalID: -1186619233737567494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_52
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 18
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2c275fe34e5e6d0800000000000000
+      internalID: -2961710220869188908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_53
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 22
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b2a87e320b7ce30800000000000000
+      internalID: 4523778018971888531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_54
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 22
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cef7f3fa6590340800000000000000
+      internalID: 4830487386016181278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_55
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 22
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450f7b0c928bf7300800000000000000
+      internalID: 252122593622487124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_56
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 18
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679697878565179b0800000000000000
+      internalID: -5084187566346245770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_57
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 22
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9384b2483e9490b20800000000000000
+      internalID: 3101091059945130041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_58
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 18
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d0749125ff6d140800000000000000
+      internalID: 4744259985557884269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_59
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 22
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2198e594cd5135640800000000000000
+      internalID: 5067418041589860626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_60
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 22
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acb3d6b888e1a430800000000000000
+      internalID: 3792568035103194274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_61
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 22
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef5da55b78c80fb0800000000000000
+      internalID: -4681271380607672352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skull and Crossbones_62
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 22
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dce5881ec3cb380800000000000000
+      internalID: -8954215019766166235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
