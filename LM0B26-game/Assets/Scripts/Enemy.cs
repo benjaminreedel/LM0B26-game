@@ -6,9 +6,7 @@ public class Enemy : MonoBehaviour
 {
     public string enemytype;
     public int health = 30;
-    float movespeed;
     int attackinterval;
-    int damage;
     bool waiting = false;
     public Animator animator;
     public bool isgreg = false;
@@ -57,9 +55,7 @@ public class Enemy : MonoBehaviour
         {
             case "Normal" :
                 health = 30;
-                movespeed = 1f;
                 attackinterval = 4;
-                damage = 10;
                 break;
             default:
                 health = 30;
@@ -263,10 +259,13 @@ public class Enemy : MonoBehaviour
 
     void die() {
         Debug.Log("I died!");
-        if (isgreg == true)
+        if (isgreg == true) {
+            if (target.GetComponent<GregController>().enemycount == 1)
             target.GetComponent<GregController>().enemycount--;
-        else
+        } else {
+            if (target.GetComponent<JennController>().enemycount == 1)
             target.GetComponent<JennController>().enemycount--;
+        }
         Destroy(gameObject);
     }
 
