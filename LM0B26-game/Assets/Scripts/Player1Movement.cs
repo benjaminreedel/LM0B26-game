@@ -26,6 +26,18 @@ public class Player1Movement : MonoBehaviour
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
 
+        if (movement.y > 0 && rb.position.y > -1.85) {
+            movement.y = 0;
+        } else if (movement.y < 0 && rb.position.y < -4.9) {
+            movement.y = 0;
+        }
+
+        if (movement.x > 0 && rb.position.x > 7.5) {
+            movement.x = 0;
+        } else if (movement.x < 0 && rb.position.x < -7.55) {
+            movement.x = 0;
+        }
+
         if(Time.time >= nextAttackTime) {
             if (Input.GetKeyDown(KeyCode.Keypad1)) {
                 Attack();
