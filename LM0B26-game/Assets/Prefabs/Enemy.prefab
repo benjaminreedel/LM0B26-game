@@ -117,7 +117,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15e36985fd3d7444c90ed291ab7639e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemytype: 
+  enemytype: Normal
   health: 30
   animator: {fileID: 4187856368928757789}
   isgreg: 0

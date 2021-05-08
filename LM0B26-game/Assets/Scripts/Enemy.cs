@@ -21,6 +21,13 @@ public class Enemy : MonoBehaviour
     Vector3 wanderpos;
     Vector2 currentpos;
     Vector2 lastpos;
+
+
+    public Transform attackPoint;
+    public float attackRange = 0.5f;
+    public LayerMask enemyLayers;
+
+
     private bool facingRight = true;
     float idletime;
     public enum enemystate
@@ -180,6 +187,12 @@ public class Enemy : MonoBehaviour
     {
         lastpos = currentpos;
         currentpos = tf.position;
+        if (currentpos != lastpos) {
+            animator.SetFloat("Speed", 1);
+        } else {
+            animator.SetFloat("Speed", 0);
+        }
+
         if (currentpos.x < lastpos.x && facingRight == true) {
             // Switch the way the player is labelled as facing.
 		    facingRight = false;
@@ -255,6 +268,26 @@ public class Enemy : MonoBehaviour
         else
             target.GetComponent<JennController>().enemycount--;
         Destroy(gameObject);
+    }
+
+    public void attackCheck() {
+        Debug.Log("attackCheck");
+        Collider2D[] hitPlayers = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+
+        foreach (Collider2D player in hitPlayers) {
+            Debug.Log("Enemy hit");
+            if (isgreg == true)
+                player.GetComponent<GregController>().takeDamage(10);
+            else
+                player.GetComponent<JennController>().takeDamage(10);
+        }
+    }
+
+    void OnDrawGizmosSelected() {
+        if (attackPoint == null) {
+            return;
+        }
+        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }
 
 }
