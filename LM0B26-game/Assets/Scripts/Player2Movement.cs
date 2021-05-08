@@ -8,9 +8,16 @@ public class Player2Movement : MonoBehaviour
 
     public Rigidbody2D rb;
     public Animator animator;
+    public Transform attackPoint;
+    public float attackRange = 0.5f;
+    public LayerMask enemyLayers;
+
     private bool facingRight = true;
 
     Vector2 movement;
+
+    public float attackRate = 2f;
+    private float nextAttackTime = 0;
 
     // Update is called once per frame
     void Update()
@@ -19,8 +26,11 @@ public class Player2Movement : MonoBehaviour
         movement.x = Input.GetAxisRaw("Horizontal2");
         movement.y = Input.GetAxisRaw("Vertical2");
 
-        if (Input.GetKeyDown(KeyCode.Space)) {
-            Attack();
+        if(Time.time >= nextAttackTime) {
+            if (Input.GetKeyDown(KeyCode.Space)) {
+                Attack();
+                nextAttackTime = Time.time + 1f / attackRate;
+            }
         }
 
         if (movement.x > 0 && !facingRight)
@@ -59,5 +69,24 @@ public class Player2Movement : MonoBehaviour
 
     void Attack() {
         animator.SetTrigger("Attack");
+
+        
+    }
+
+    public void attackCheck() {
+        Debug.Log("attackCheck");
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
+
+        foreach (Collider2D enemy in hitEnemies) {
+            Debug.Log("Enemy hit");
+            enemy.GetComponent<Enemy>().takeDamage(10);
+        }
+    }
+
+    void OnDrawGizmosSelected() {
+        if (attackPoint == null) {
+            return;
+        }
+        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }
 }
