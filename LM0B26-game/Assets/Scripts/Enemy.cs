@@ -15,6 +15,7 @@ public class Enemy : MonoBehaviour
     GameObject player1;
     GameObject player2;
     GameObject target;
+    public GameObject WanderLock;
     Rigidbody2D rb;
     Transform tf;
     Vector3 initpos;
@@ -108,7 +109,7 @@ public class Enemy : MonoBehaviour
 
     public Vector2 findinitpos()
     {
-        Vector3 randompos = Camera.main.ScreenToWorldPoint(new Vector3(Random.Range(Screen.width/2, (Screen.width - Screen.height/8)), Random.Range(0, (Screen.height - Screen.height/8)), Camera.main.farClipPlane/2));
+        Vector3 randompos = new Vector2(Random.Range(WanderLock.transform.position.x - 8, WanderLock.transform.position.x + 8), Random.Range(WanderLock.transform.position.y - 1.5f, WanderLock.transform.position.y + 1.5f));
         return randompos;
 
     }
@@ -169,14 +170,14 @@ public class Enemy : MonoBehaviour
                     target.GetComponent<GregController>().enemycount++;
                     idle(enemystate.walknear, 1);
                 } else {
-                    wanderpos = new Vector2(Random.Range(target.transform.position.x - 4, target.transform.position.x + 4), Random.Range(target.transform.position.y - 2, target.transform.position.y + 2));
+                    wanderpos = new Vector2(Random.Range(WanderLock.transform.position.x - 8, WanderLock.transform.position.x + 8), Random.Range(WanderLock.transform.position.y - 1.8f, WanderLock.transform.position.y + 1.8f));
                 }
             } else {
                 if (target.GetComponent<JennController>().enemycount == 0) {
                     target.GetComponent<JennController>().enemycount++;
                     idle(enemystate.walknear, 1);
                 } else {
-                    wanderpos = new Vector2(Random.Range(target.transform.position.x - 4, target.transform.position.x + 4), Random.Range(target.transform.position.y - 2, target.transform.position.y + 2));
+                    wanderpos = new Vector2(Random.Range(WanderLock.transform.position.x - 8, WanderLock.transform.position.x + 8), Random.Range(WanderLock.transform.position.y - 1.8f, WanderLock.transform.position.y + 1.8f));
                 }
             }
         }

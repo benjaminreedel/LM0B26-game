@@ -27,7 +27,7 @@ public class wavehadle : MonoBehaviour
 
     public void spawnenemys() {
         for (int i = 0; i < amount; i++) {
-            Instantiate(enemy, new Vector2(Random.Range(target.transform.position.x, target.transform.position.x), Random.Range(target.transform.position.y - 5, target.transform.position.y + 5)), target.transform.rotation);
+            Instantiate(enemy, target.transform.position, target.transform.rotation);
         }
         amount++;
     }
