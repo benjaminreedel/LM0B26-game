@@ -12,8 +12,8 @@ public class Enemy : MonoBehaviour
     bool waiting = false;
     public Animator animator;
     public bool isgreg = false;
-    public GameObject player1;
-    public GameObject player2;
+    GameObject player1;
+    GameObject player2;
     GameObject target;
     Rigidbody2D rb;
     Transform tf;
@@ -37,6 +37,8 @@ public class Enemy : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        player1 = GameObject.Find("Greg");
+        player2 = GameObject.Find("Jenn");
         rb = gameObject.GetComponent<Rigidbody2D>();
         tf = gameObject.GetComponent<Transform>();
         initpos = findinitpos();
@@ -46,13 +48,13 @@ public class Enemy : MonoBehaviour
         switch (enemytype)
         {
             case "Normal" :
-                health = 100;
+                health = 30;
                 movespeed = 1f;
                 attackinterval = 4;
                 damage = 10;
                 break;
             default:
-                health = 100;
+                health = 30;
                 break;
         }
 
@@ -132,7 +134,7 @@ public class Enemy : MonoBehaviour
         tf.position = Vector2.MoveTowards(tf.position, initpos, 0.015f);
         if (tf.position == initpos && waiting == false){
             if (isgreg == true) {
-                if (target.GetComponent<GregController>().enemycount < 2) {
+                if (target.GetComponent<GregController>().enemycount == 0) {
                     target.GetComponent<GregController>().enemycount++;
                     idle(enemystate.walknear, 1);
                 } else {
@@ -140,7 +142,7 @@ public class Enemy : MonoBehaviour
                     idle(enemystate.wander, 1);
                 }
             } else {
-                if (target.GetComponent<JennController>().enemycount < 2) {
+                if (target.GetComponent<JennController>().enemycount == 0) {
                     target.GetComponent<JennController>().enemycount++;
                     idle(enemystate.walknear, 1);
                 } else {
@@ -156,14 +158,15 @@ public class Enemy : MonoBehaviour
         tf.position = Vector2.MoveTowards(tf.position, wanderpos, 0.008f);
         if (tf.position == wanderpos) {
             if (isgreg == true) {
-                if (target.GetComponent<GregController>().enemycount < 2) {
+                if (target.GetComponent<GregController>().enemycount == 0) {
+                    Debug.Log("yoyoyoyo");
                     target.GetComponent<GregController>().enemycount++;
                     idle(enemystate.walknear, 1);
                 } else {
                     wanderpos = new Vector2(Random.Range(target.transform.position.x - 4, target.transform.position.x + 4), Random.Range(target.transform.position.y - 2, target.transform.position.y + 2));
                 }
             } else {
-                if (target.GetComponent<JennController>().enemycount < 2) {
+                if (target.GetComponent<JennController>().enemycount == 0) {
                     target.GetComponent<JennController>().enemycount++;
                     idle(enemystate.walknear, 1);
                 } else {
@@ -200,16 +203,12 @@ public class Enemy : MonoBehaviour
     {
         if (tf.position != (target.transform.position + new Vector3(3,0,0))) {
             if (isgreg == true) {
-                if (target.GetComponent<GregController>().enemycount == 1) {
+                if (target.GetComponent<GregController>().enemycount < 2) {
                     tf.position = Vector2.MoveTowards(tf.position, (target.transform.position + new Vector3(3,0,0)), 0.01f);
-                } else if (target.GetComponent<GregController>().enemycount == 2) {
-                    tf.position = Vector2.MoveTowards(tf.position, (target.transform.position + new Vector3(-3,0,0)), 0.01f);
                 }
             } else {
-                if (target.GetComponent<JennController>().enemycount == 1) {
+                if (target.GetComponent<JennController>().enemycount < 2) {
                     tf.position = Vector2.MoveTowards(tf.position, (target.transform.position + new Vector3(3,0,0)), 0.01f);
-                } else if (target.GetComponent<GregController>().enemycount == 2) {
-                    tf.position = Vector2.MoveTowards(tf.position, (target.transform.position + new Vector3(-3,0,0)), 0.01f);
                 }
             }
         } else if (waiting == false) {
@@ -251,8 +250,11 @@ public class Enemy : MonoBehaviour
 
     void die() {
         Debug.Log("I died!");
+        if (isgreg == true)
+            target.GetComponent<GregController>().enemycount--;
+        else
+            target.GetComponent<JennController>().enemycount--;
         Destroy(gameObject);
     }
 
 }
-
