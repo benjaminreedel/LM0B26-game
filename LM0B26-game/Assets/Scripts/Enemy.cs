@@ -166,7 +166,6 @@ public class Enemy : MonoBehaviour
         if (tf.position == wanderpos) {
             if (isgreg == true) {
                 if (target.GetComponent<GregController>().enemycount == 0) {
-                    Debug.Log("yoyoyoyo");
                     target.GetComponent<GregController>().enemycount++;
                     idle(enemystate.walknear, 1);
                 } else {
