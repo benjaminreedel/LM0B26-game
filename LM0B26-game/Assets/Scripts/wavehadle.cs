@@ -40,7 +40,7 @@ public class wavehadle : MonoBehaviour
         if (amount == 10 && enemys.Length == 0) {
             SceneManager.LoadScene(2);
         }
-        
+
         if (enemys.Length == 0 && nextzone == false) {
             nextpos = tf.position + new Vector3(-5.5f,0,0);
             nextzone = true;
