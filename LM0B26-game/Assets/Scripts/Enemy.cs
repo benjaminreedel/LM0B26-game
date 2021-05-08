@@ -5,7 +5,7 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     public string enemytype;
-    int health;
+    public int health = 30;
     float movespeed;
     int attackinterval;
     int damage;
@@ -182,6 +182,17 @@ public class Enemy : MonoBehaviour
             idle(enemystate.walknear,Random.Range(2, 4));
         }//punch then have a 50% chance to punch after every punch then go back to walk near
         //two attacks a punch and a kick
+    }
+
+    public void takeDamage(int damage) {
+        health -= damage;
+        if (health <= 0)
+            die();
+    }
+
+    void die() {
+        Debug.Log("I died!");
+        Destroy(gameObject);
     }
 
 }
