@@ -11,7 +11,7 @@ public class PressAnyKey : MonoBehaviour
     {
         if (Input.anyKeyDown)
         {
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(1);
         }
         
     }
